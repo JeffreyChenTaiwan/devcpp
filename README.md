@@ -1,4 +1,8 @@
 ﻿# Dev-C++ 5.15 多语言国际版
+
+Dev-C++ 的中文主页已经转移到了码云(gitee.com)。请前往 [Dev-C++ 中文主页](https://devcpp.gitee.io) 下载最新版本。
+
+
 Dev-C++ （或者叫做 Dev-Cpp）是 Windows 环境下的一个轻量级 C/C++ 集成开发环境（IDE）。它是一款自由软件，遵守 GPL v2 许可协议分发源代码。它集合了功能强大的源码编辑器、TDM-GCC 编译器、GDB 调试器和 AStyle 格式整理器等众多自由软件。非常适合于在教学中供 C/C++语言初学者使用，也适合于非商业级普通开发者使用。
 
 我花了一些时间，对 Dev-C++ 的[旧官方网站](https://sourceforge.net/projects/orwelldevcpp/)上的最后版本 v5.11 进行了大量修改，解决了我在使用中发现的一些小问题，并且添加了大量功能。
